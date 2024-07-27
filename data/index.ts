@@ -79,14 +79,14 @@ export const projects = [
     iconLists: ["/re.svg", "/tail.svg", "/ex.svg", "/mo.svg", "/pr.svg"],
     link: "https://booking-m1.vercel.app/",
   },
-  // {
-  //   id: 2,
-  //   title: "Yoom - Video Conferencing App",
-  //   des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-  //   img: "/p2.svg",
-  //   iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-  //   link: "/ui.yoom.com",
-  // },
+  {
+    id: 2,
+    title: "Travel Project",
+    des: "A travel app that allows users to book their favorite destinations. For more information about the project, click the link below.",
+    img: "/travel.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://travel-msn.vercel.app/",
+  },
   {
     id: 3,
     title: "VirualR - Landing Page",
